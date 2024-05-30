@@ -7,5 +7,5 @@ public class RetoGitUI {
     public static Target ADDED = Target
             .the("Object")
             .located(By.xpath("//span[@data-molecule-product-detail-name-span='true']"));
-    
+
 }
